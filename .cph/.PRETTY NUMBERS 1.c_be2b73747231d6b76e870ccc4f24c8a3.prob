@@ -1,0 +1,1 @@
+{"name":"Local: PRETTY NUMBERS 1","url":"e:\\destop\\1. code stuff\\C coding file\\PRETTY NUMBERS 1.c","tests":[{"id":1703303484840,"input":"2 50","output":"2 3 5 11 17 23 41"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\destop\\1. code stuff\\C coding file\\PRETTY NUMBERS 1.c","group":"local","local":true}
